@@ -14,6 +14,7 @@
     justify-content: center;
     flex-direction: column;
     color: #ffff;
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
 
 }
 .hero h1{
@@ -28,8 +29,11 @@
 textarea{
     width: 600px;
     height: 260px;
-    background: #403d84;
-    color: #fff;
+    /* background: #403d84; */
+    /* color: #fff; */
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+
+
     font-size: 16px;
     border: 0;
     outline: 0;
